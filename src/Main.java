@@ -14,10 +14,6 @@ public class Main {
         return arr;
     }
     public static void task1() {
-        // int[] arr = generateRandomArray();
-        // int[] arr — объявление массива
-        // generateRandomArray() — вызов метода «сгенерироватьМассив»
-        // Далее пишем код для задачи
 
         System.out.println("Задача 1");
         //Бухгалтеры попросили посчитать сумму всех выплат за месяц.

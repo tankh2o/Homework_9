@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fbf309d-85e8-4b74-b3b7-6da376866475" name="Changes" comment="1 попытка" />
+    <list default="true" id="9fbf309d-85e8-4b74-b3b7-6da376866475" name="Changes" comment="3 попытка" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +45,7 @@
       <workItem from="1676883639371" duration="650000" />
       <workItem from="1677030252466" duration="3305000" />
       <workItem from="1677058699458" duration="5553000" />
+      <workItem from="1677136407635" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="1 попытка">
       <created>1677064134154</created>
@@ -53,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677064134154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 попытка">
+      <created>1677136592088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677136592088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3 попытка">
+      <created>1677141425478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677141425478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 попытка" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 попытка" />
+    <MESSAGE value="3 попытка" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 попытка" />
   </component>
 </project>
